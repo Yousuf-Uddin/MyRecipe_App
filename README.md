@@ -1,8 +1,9 @@
 # My Recipe App
  Developed a user-friendly web application for managing, storing, and sharing recipes.
- Deployed on Github [here](https://yousuf-uddin.github.io/Weather-Forecast-App/)
 
-Demo:
+Application Demo:  [Click here](https://yousuf-uddin.github.io/MyRecipe_App/)
+
+
 ![Tool](https://github.com/Yousuf-Uddin/MyRecipe_App/blob/main/src/assets/Screenshot.png)
 
 - Developed the front-end using React, creating a responsive and intuitive user interface.
