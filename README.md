@@ -1,8 +1,11 @@
-# React + Vite
+# My Recipe App
+ Developed a user-friendly web application for managing, storing, and sharing recipes.
+ Deployed on Github [here](https://yousuf-uddin.github.io/Weather-Forecast-App/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Demo:
+![Tool](https://github.com/Yousuf-Uddin/MyRecipe_App/blob/main/src/assets/Screenshot.png)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Developed the front-end using React, creating a responsive and intuitive user interface.
+- Utilized local storage to store and retrieve recipe data, ensuring fast and reliable access.
+- Added functionality for users to upload images, rate recipes, and leave comments.
+- The project is open-source and hosted on GitHub.
