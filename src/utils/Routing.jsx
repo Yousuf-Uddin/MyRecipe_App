@@ -6,7 +6,7 @@ import Home from "../pages/Home";
 function Routing() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/MyRecipe_App" element={<Home />} />
       <Route path="/addRecipe" element={<AddRecipeForm />} />
       <Route path="/recipeInfo" element={<RecipeInfo />} />
       <Route path="/recipeInfo/:dishName" element={<RecipeInfo />} />
