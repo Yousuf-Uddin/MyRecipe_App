@@ -24,7 +24,7 @@ const Navbar = () => {
           style={(e) => {
             return navHandler(e);
           }}
-          to="/"
+          to="/MyRecipe_App/"
         >
           Home
         </NavLink>
