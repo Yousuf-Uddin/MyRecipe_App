@@ -51,7 +51,7 @@ const RecipeForm = () => {
       ? toast.success("Recipe Edited Sucessfully.", { autoClose: 1500 })
       : toast.success("Recipe Added to LocalStorage.", { autoClose: 1500 });
     setTimeout(() => {
-      navigate("/");
+      navigate("/MyRecipe_App/");
     }, 2500);
   };
 
